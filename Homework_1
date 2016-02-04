@@ -1,1 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Document test</title>
 
+<style>
+
+
+
+
+p{
+font-family: Tahoma;
+color: black;
+width: auto;
+height: auto;
+/* background-image: url(screenshots/I.jpg);
+background-repeat: no-repeat;*/
+background-position: center center;
+margin: 30px;
+}
+
+.back-grey{
+background-color: lightgrey;
+width:600px;
+margin:0 auto;
+padding:20px;
+}
+</style>
+</head>
+<body>
+
+<div class="back-grey">
+
+<div class="box1">
+<h1><center>Ханин Евгений Викторович</center></h1>
+</div>
+<div class="box2">
+<center><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/255462_367632846645639_248813878_n.jpg?oh=d3a483aa223cc72fcbff1bd10a495848&oe=573C4BE5&__gda__=1461926964_c99bd35042cd75cb6d3fce2a7d420ca0" height="300"
+alt="Я в кинотеатре" /></center>
+<p>Свободный житель планеты Земля</p>
+<hr >
+<p>Хочу учить фронтенд,потому что:</p>
+
+<ul>
+<li>Потому что ********</li>
+<li>Потому что ********</li>
+<li>Можно работать дома *</li>
+</ul>
+
+<hr >
+
+<p>Мой контактный телефон</p>
+<p>+380660707554</p>
+
+
+<p>Мой профиль в фейсбуке</p>
+<p><a href="https://www.facebook.com/profile.php?id=100001967804965" target="_blank">facebook</a></p>
+
+<hr >
+
+<p> Мой фидбек:</p>
+<p> "Человек, который почувствовал ветер перемен, должен строить не щит от ветра, а ветряную мельницу." С. Кинг
+</p>
+</div>
+
+</div>
+</body>
+</html>
